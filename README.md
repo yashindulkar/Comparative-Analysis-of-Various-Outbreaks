@@ -20,41 +20,41 @@
 
 ❗️  Packages
 
-![]()
+![](https://github.com/yashindulkar/Comparative-Analysis-of-Various-Outbreaks/blob/master/Images/Packages.PNG)
 
 ❗️  Dataset Information
 
-![]()
+![](https://github.com/yashindulkar/Comparative-Analysis-of-Various-Outbreaks/blob/master/Images/Datasets.PNG)
 
-❗️  Packages
+❗️  Sars Plot
 
-![]()
+![](https://github.com/yashindulkar/Comparative-Analysis-of-Various-Outbreaks/blob/master/Images/Comparison_sars.PNG)
 
-❗️  Dataset Information
+❗️  Ebola Plot 
 
-![]()
+![](https://github.com/yashindulkar/Comparative-Analysis-of-Various-Outbreaks/blob/master/Images/Comparison_ebola.PNG)
 
-❗️  Packages
+❗️  Sars vs Ebola
 
-![]()
+![](https://github.com/yashindulkar/Comparative-Analysis-of-Various-Outbreaks/blob/master/Images/Sars_vs_Ebola.PNG)
 
-❗️  Dataset Information
+❗️  Sars vs Ebola vs Covid-19
 
-![]()
+![](https://github.com/yashindulkar/Comparative-Analysis-of-Various-Outbreaks/blob/master/Images/Sars_vs_Ebola_vs_Covid.PNG)
 
-❗️  Packages
+❗️  World Map
 
-![]()
+![](https://github.com/yashindulkar/Comparative-Analysis-of-Various-Outbreaks/blob/master/Images/WorldMap.PNG)
 
-❗️  Dataset Information
+❗️  Sars World Map
 
-![]()
+![](https://github.com/yashindulkar/Comparative-Analysis-of-Various-Outbreaks/blob/master/Images/Sars_WM.PNG)
 
-❗️  Packages
+❗️  Ebola World Map
 
-![]()
+![](https://github.com/yashindulkar/Comparative-Analysis-of-Various-Outbreaks/blob/master/Images/Ebola_WM.PNG)
 
-❗️  Dataset Information
+❗️  Covid-19 World Map
 
-![]()
+![](https://github.com/yashindulkar/Comparative-Analysis-of-Various-Outbreaks/blob/master/Images/Covid_WM.PNG)
 
